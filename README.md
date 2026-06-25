@@ -13,12 +13,13 @@
 ## 👤 Quem criou este projeto:
 
 * Isabella Costa Martins - Programadora
-* Hemilly - Roteirista e testadora de software
+* Hemilly Victoria Ferreira Albuquerque - Roteirista e testadora de software
 
 ## 🎮 Link para o jogo: 
 
 https://replit.com/@isabellacosta08/PROJETO-FINAL-Isabella-e-Hemilly
 
+* Como abrir: clique no link acima, entre na aba "Shell" e escreva "python script.py" para iniciar o jogo.
 
 
 
