@@ -8,14 +8,14 @@
 
 * Tema: nossa text-adventure tem como temática a exploração de uma caverna misteriosa, com o objetivo de encontrar o Cristal Perdido (um artefato lendário e muito valioso).
 
-* Opções disponíveis: o jogo conta com dois caminhos diferentes para seguir, dois tipos de final (um bom e um ruim) e 4 enigmas para resolver (dois em cada caminho).
+* Opções disponíveis: o jogo conta com três caminhos diferentes para seguir, dois tipos de final (um bom e um ruim) e 6 enigmas para resolver (dois em cada caminho).
 
 ## 👤 Quem criou este projeto:
 
 * Isabella Costa Martins - Programadora
 * Hemilly Victoria Ferreira Albuquerque - Roteirista e testadora de software
 
-## 🎮 [Clique aqui para acessar nosso projeto!](https://replit.com/@isabellacosta08/PROJETO-FINAL-Isabella-e-Hemilly)
+## 🎮 Clique [aqui](https://replit.com/@isabellacosta08/PROJETO-FINAL-Isabella-e-Hemilly) para acessar nosso projeto!
 
 * Como abrir: clique no link acima, entre na aba "Shell" e escreva "python script.py" para iniciar o jogo.
 
