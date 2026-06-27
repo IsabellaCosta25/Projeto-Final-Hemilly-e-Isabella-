@@ -6,7 +6,7 @@
 
 ## 📖 Sobre o jogo:
 
-* Tema: nossa text-adventure tem como temática a exploração de uma caverna misteriosa, com o objetivo de encontrar o Cristal Perdido (um artefato lendário e muito valioso).
+* Tema: nossa text-adventure tem como temática a exploração de uma caverna misteriosa, com o objetivo de encontrar o Cristal Perdido (um artefato fictício lendário e muito valioso).
 
 * Opções disponíveis: o jogo conta com três caminhos diferentes para seguir, dois tipos de final (um bom e um ruim) e 6 enigmas para resolver (dois em cada caminho).
 
