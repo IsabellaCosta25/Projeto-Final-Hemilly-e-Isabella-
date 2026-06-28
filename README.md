@@ -15,7 +15,7 @@
 * Isabella Costa Martins - Programadora
 * Hemilly Victoria Ferreira Albuquerque - Roteirista e testadora de software
 
-## 🎮 Clique [aqui](https://replit.com/@isabellacosta08/PROJETO-FINAL-Isabella-e-Hemilly#script.py) para acessar nosso projeto!
+## 🎮 Clique [aqui](https://replit.com/@isabellacosta08/PROJETO-FINAL-Isabella-e-Hemilly) para acessar nosso projeto!
 
 * Como abrir: clique no link acima, entre na aba "Shell" e escreva "python script.py" para iniciar o jogo.
 
